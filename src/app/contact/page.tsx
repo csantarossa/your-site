@@ -26,7 +26,7 @@ const Page = () => {
   });
 
   return (
-    <div className="w-full h-screen flex flex-col justify-start items-center pt-40 gap-12">
+    <div className="w-full h-screen flex flex-col justify-center items-center gap-12">
       <form className="w-96 flex flex-col gap-4 border rounded-xl p-5">
         <div className="flex w-full justify-between items-center">
           <h1 className="text-2xl font-bold">Contact Us</h1>
